@@ -1,0 +1,5 @@
+kivy
+requests
+websocket-client
+protobuf
+iqoptionapi
